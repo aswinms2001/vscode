@@ -1,1 +1,6 @@
 sample code is it
+wwe
+
+git code refreshing - git add.
+
+git push through vs code - git commit -m "your message"
